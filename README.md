@@ -7,5 +7,6 @@ Bases:
  Disponíveis em: 
  https://dados.educacao.sp.gov.br/dataset/quantidade-de-alunos-estrangeiros-por-nacionalidade
  https://dados.educacao.sp.gov.br/dataset/matr%C3%ADculas-por-aluno
+https://dados.educacao.sp.gov.br/dataset/matr%C3%ADculas-por-aluno
 
-O estudo será realizado no VS Code.
+O estudo será realizado no VS Code utilizando Python.
