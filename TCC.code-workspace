@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "TCC",
+			"path": "TCC"
+		},
+		{
+			"name": "TCC-1",
+			"path": "TCC-1"
+		}
+	],
+	"settings": {}
+}
